@@ -20,9 +20,6 @@ dependencies:
   - anyio=3.5.0
   - aom=3.6.0
   - appdirs=1.4.4
-  - applaunchservices=0.3.0
-  - appnope=0.1.2
-  - appscript=1.1.2
   - argon2-cffi=21.3.0
   - argon2-cffi-bindings=21.2.0
   - arrow=1.2.3
@@ -66,7 +63,6 @@ dependencies:
   - c-blosc2=2.8.0
   - ca-certificates=2023.12.12
   - cctools=949.0.1
-  - cctools_osx-arm64=949.0.1
   - certifi=2023.11.17
   - cffi=1.15.1
   - cfitsio=3.470
@@ -201,7 +197,6 @@ dependencies:
   - lazy_loader=0.2
   - lcms2=2.12
   - ld64=530
-  - ld64_osx-arm64=530
   - ldid=2.1.5
   - lerc=3.0
   - libaec=1.0.4
@@ -220,8 +215,6 @@ dependencies:
   - libev=4.33
   - libevent=2.1.12
   - libffi=3.4.4
-  - libgfortran=5.0.0
-  - libgfortran5=11.3.0
   - libiconv=1.16
   - liblief=0.12.3
   - libllvm14=14.0.6
@@ -348,10 +341,6 @@ dependencies:
   - pylint=2.16.2
   - pylint-venv=2.3.0
   - pyls-spyder=0.4.0
-  - pyobjc-core=9.0
-  - pyobjc-framework-cocoa=9.0
-  - pyobjc-framework-coreservices=9.0
-  - pyobjc-framework-fsevents=9.0
   - pyodbc=4.0.34
   - pyopenssl=23.2.0
   - pyparsing=3.0.9
@@ -377,7 +366,7 @@ dependencies:
   - python-snappy=0.6.1
   - python-tzdata=2023.3
   - python-xxhash=2.0.2
-  - python.app=3
+  # - python.app=3
   - pytoolconfig=1.2.5
   - pytz=2023.3.post1
   - pyviz_comms=2.3.0
@@ -386,7 +375,6 @@ dependencies:
   - pyzmq=23.2.0
   - qdarkstyle=3.0.2
   - qstylizer=0.2.2
-  - qt-main=5.15.2
   - qt-webengine=5.15.9
   - qtawesome=1.2.2
   - qtconsole=5.4.2
@@ -484,7 +472,6 @@ dependencies:
   - wrapt=1.14.1
   - wurlitzer=3.0.2
   - xarray=2023.6.0
-  - xlwings=0.29.1
   - xxhash=0.8.0
   - xyzservices=2022.9.0
   - xz=5.4.2
