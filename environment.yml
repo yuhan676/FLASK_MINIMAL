@@ -1,6 +1,5 @@
 name: comp30830_flask
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - bzip2=1.0.8
