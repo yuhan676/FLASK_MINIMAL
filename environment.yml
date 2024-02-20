@@ -141,7 +141,7 @@ dependencies:
   - huggingface_hub=0.15.1
   - hvplot=0.8.4
   - hyperlink=21.0.0
-  - icu=73.1
+  - icu=58.2
   - idna=3.4
   - imagecodecs=2023.1.23
   - imageio=2.31.1
